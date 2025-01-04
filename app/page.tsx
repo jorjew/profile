@@ -1,16 +1,17 @@
 export default function Home () {
 return (
    <>
-   <div>
-     <h1>
-      หน้าหลัก
-     </h1>
+    <div class="bg-purple-300 h-32"></div>
 
-
-
-  </div>
+    
    
-   
+
+
+
+
+
+
+
    </>
 
 
