@@ -28,28 +28,53 @@ export default function Home() {
             user-friendly websites and applications.
           </p>
           </div>
+         
+        <div className="max-w-4xl mx-auto mt-6 grid grid-cols-3 gap-6">
+  
+           <div className="bg-white shadow-md rounded-lg p-6 border border-gray-300">
+              <h2 className="text-lg font-semibold">CONTACT</h2>
+              <ul className="mt-2 text-gray-700 space-y-1">
+              <li>Email: jewpsk2017@gmail.com </li>
+              <li>Github: https://github.com/jorjew</li>
+             <li>FB:Phongsakron J.Chuaichoengpradit</li>
+        </ul>
 
-          
-          <div className="max-w-md mx-36 mt-6 pl-32  ">
-  <div className="bg-white shadow-md rounded-lg p-6 border border-gray-300">
-    
-    <h2 className="text-lg font-semibold">CONTACT</h2>
-    <ul className="mt-2 text-gray-700 space-y-1">
-      <li>Email: jewpsk2017@gmail.com</li>
-      <li>Github: https://github.com/jorjew</li>
-      <li>FB:Phongsakron J.Chuaichoengpradit </li>
-    </ul>
+            <h2 className="text-lg font-semibold mt-6">SKILL</h2>
+            <ul className="mt-2 text-gray-700 space-y-1">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Tailwind CSS</li>
+            <li>Next.js</li>
+            <li>Vue.js</li>
+        </ul>
+  </div>
 
-    <h2 className="text-lg font-semibold mt-6">SKILL</h2>
-    <ul className="mt-2 text-gray-700 space-y-1">
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>Tailwind CSS</li>
-      <li>Next.js</li>
-      <li>Vue.js</li>
-      </ul>
-          </div>
-          </div>
+      <div className="bg-purple-600 text-white shadow-md rounded-lg p-6">
+         <h2 className="text-lg font-semibold">Education</h2>
+          <p className="mt-2">
+              Bachelor of Engineering in<br />
+              Software Engineering<br />
+              University of Phayao, Thailand<br />
+              <span className="italic">Expected Graduation: [2.2]</span>
+    </p>
+    </div>
+
+       <div className="bg-purple-600 text-white shadow-md rounded-lg p-6">
+          <h2 className="text-lg font-semibold">Experience</h2>
+          <ul className="mt-2 space-y-2">
+         <li>Website selling IT equipment (UX/UI)</li>
+         <li>Coffee predee restaurant (Front-End HTML/CSS)</li>
+         <li>Medies (VueJS)</li>
+       </ul>
+  </div>
+</div>
+
+
+
+
+
+  
+  
           
 
 
