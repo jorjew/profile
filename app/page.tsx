@@ -36,7 +36,8 @@ export default function Home() {
               <ul className="mt-2 text-gray-700 space-y-1">
               <li>Email: jewpsk2017@gmail.com </li>
               <li>Github: https://github.com/jorjew</li>
-             <li>FB:Phongsakron J.Chuaichoengpradit</li>
+             
+
         </ul>
 
             <h2 className="text-lg font-semibold mt-6">SKILL</h2>
