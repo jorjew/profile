@@ -3,9 +3,9 @@ export default function Home() {
     <>
        <div className="bg-purple-700 h-32"></div>
        
-       <div className="max-w-xl mx-auto -mt-10"> 
+        <div className="max-w-4xl mx-auto -mt-16"> 
         <div className="bg-white shadow-lg rounded-lg p-4">
-          <div className="flex items-center">
+        <div className="flex items-center"></div>
            
           <div className="w-24 h-24">
             <img
@@ -13,15 +13,49 @@ export default function Home() {
                 alt="Profile"
                 className="w-full h-full object-cover rounded-full"
                 />
-          </div>
+           </div>
             <div className="ml-6">
               <h1 className="text-2xl font-semibold">Phongsakron Chuaichoenpradit </h1>
               <p className="text-black">Jew</p>
               <p className="text-gray-500">Front-End Developer</p>
             </div>
+            </div>
+            <p className="mt-6 text-lg">
+            I'm <span className="font-bold">Jew</span>. I'm currently 
+            <span className="italic">student</span> passionate about learning
+            and developing new skills. I'm particularly interested in front-end
+            development, as I enjoy creating visually appealing and
+            user-friendly websites and applications.
+          </p>
+          </div>
+
+          
+          <div className="max-w-md mx-36 mt-6 pl-32  ">
+  <div className="bg-white shadow-md rounded-lg p-6 border border-gray-300">
+    
+    <h2 className="text-lg font-semibold">CONTACT</h2>
+    <ul className="mt-2 text-gray-700 space-y-1">
+      <li>Email: jewpsk2017@gmail.com</li>
+      <li>Github: https://github.com/jorjew</li>
+      <li>FB:Phongsakron J.Chuaichoengpradit </li>
+    </ul>
+
+    <h2 className="text-lg font-semibold mt-6">SKILL</h2>
+    <ul className="mt-2 text-gray-700 space-y-1">
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Tailwind CSS</li>
+      <li>Next.js</li>
+      <li>Vue.js</li>
+      </ul>
           </div>
           </div>
-          </div>
+          
+
+
+          
+          
+          
 
 
 
