@@ -21,9 +21,9 @@ export default function Home() {
             </div>
             </div>
             <p className="mt-6 text-lg">
-            I`m <span className="font-bold">Jew</span>. I`m currently 
+            I m <span className="font-bold">Jew</span>. I m currently 
             <span className="italic">student</span> passionate about learning
-            and developing new skills. I`m particularly interested in front-end
+            and developing new skills. I m particularly interested in front-end
             development, as I enjoy creating visually appealing and
             user-friendly websites and applications.
           </p>
