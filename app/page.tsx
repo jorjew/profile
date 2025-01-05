@@ -21,9 +21,9 @@ export default function Home() {
             </div>
             </div>
             <p className="mt-6 text-lg">
-            I'm <span className="font-bold">Jew</span>. I'm currently 
+            I`m <span className="font-bold">Jew</span>. I`m currently 
             <span className="italic">student</span> passionate about learning
-            and developing new skills. I'm particularly interested in front-end
+            and developing new skills. I`m particularly interested in front-end
             development, as I enjoy creating visually appealing and
             user-friendly websites and applications.
           </p>
@@ -34,7 +34,7 @@ export default function Home() {
            <div className="bg-white shadow-md rounded-lg p-6 border border-gray-300">
               <h2 className="text-lg font-semibold">CONTACT</h2>
               <ul className="mt-2 text-gray-700 space-y-1">
-              <li>Email: jewpsk2017@gmail.com </li>
+              <li>Email: 66022792@up.ac.th</li>
               <li>Github: https://github.com/jorjew</li>
              <li>FB:Phongsakron J.Chuaichoengpradit</li>
         </ul>
