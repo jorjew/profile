@@ -36,6 +36,7 @@ export default function Home() {
               <ul className="mt-2 text-gray-700 space-y-1">
               <li>Email: 66022792@up.ac.th</li>
               <li>Github: https://github.com/jorjew</li>
+              <li>FB:Phongsakron J.Chuaichoengpradit</li>
              
 
         </ul>
